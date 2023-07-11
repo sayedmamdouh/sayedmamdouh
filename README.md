@@ -43,19 +43,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/sayed-mamdouh/" target="blank"><img align="center" src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/linkedin.svg" alt="Sayed Mamdouh" height="30" width="30" /></a>
-<a href="mailto:sayedmamdouh0@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Sayed Mamdouh" width="40" />
+<a href="mailto:sayedmamdouh0@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Sayed Mamdouh" width="30" />
 <a href="https://www.instagram.com/sayedmamdouh0/" target="blank"><img align="center" src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/instagram.svg" alt="Sayed Mamdouh" height="30" width="30" /></a>
-</p>
 
-<p align="center">
-<a href="https://www.linkedin.com/in/sayed-mamdouh/" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="Sayed Mamdouh" height="40" width="45" />
 
-<a href="mailto:sayedmamdouh0@gmail.com" target="blank">
-<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="sayedmamdouh0@gmail.com" width="40" />
-</a> 
-
-</a> 
-</p>
 
 <!-- sarath --> 
