@@ -42,7 +42,7 @@
 <!-- Connect with me -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/sayed-mamdouh/" target="_blank" ><img align="center" src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/linkedin.svg" alt="Sayed Mamdouh" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/sayed-mamdouh/" target="blank" ><img align="center" src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/linkedin.svg" alt="Sayed Mamdouh" height="30" width="30" /></a>
 <a href="mailto:sayedmamdouh0@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Sayed Mamdouh" width="30" />
 
 
