@@ -8,11 +8,11 @@
 
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b>
 
-- I'm a junior software test engineer
+- I'm a Software Quality Engineer
 - I hold a Bachelor’s degree in Mechatronics Engineering.
 - I have a diploma in software testing and quality assurance from ITI.
 - I have three years of experience as an R&D Engineer.
-- I have a good experience with databases, manual testing, and test automation.
+- I have a good experience with databases, manual testing, web automation, and API testin.
 
 
 <br>
