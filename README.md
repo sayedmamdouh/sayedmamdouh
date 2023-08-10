@@ -10,9 +10,9 @@
 
 - I'm a Software Quality Engineer
 - I hold a Bachelor’s degree in Mechatronics Engineering.
-- I have a diploma in software testing and quality assurance from ITI.
+- I have a diploma in software testing from Information Technology Institute (ITI).
 - I have three years of experience as an R&D Engineer.
-- I have a good experience with databases, manual testing, web automation, and API testin.
+- I have a good experience with databases, manual testing, web automation, and API testing.
 
 
 <br>
